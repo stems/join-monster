@@ -72,7 +72,7 @@
     "graphql": "0.6 || 0.7 || 0.8 || 0.9 || 0.10 || 0.11 || 0.12 || 0.13"
   },
   "devDependencies": {
-    "ava": "^0.25.0",
+    "ava": "^2.4.0",
     "babel-cli": "^6.14.0",
     "babel-eslint": "^10.0.1",
     "babel-plugin-idx": "^2.2.0",
@@ -86,7 +86,7 @@
     "faker": "^4.1.0",
     "graphql": "^0.13.0",
     "graphsiql": "0.2.0",
-    "jsdoc-to-markdown": "^4.0.0",
+    "jsdoc-to-markdown": "^5.0.3",
     "kcors": "^2.2.1",
     "knex": "^0.15.0",
     "koa": "^2.0.1",
@@ -95,17 +95,17 @@
     "koa-router": "^7.1.1",
     "koa-static": "^5.0.0",
     "mysql": "^2.14.1",
-    "nyc": "^12.0.1",
+    "nyc": "^14.1.1",
     "pg": "^7.1.0",
     "sinon": "^6.1.0",
     "sqlite3": "^4.0.0"
   },
   "dependencies": {
-    "@stem/nesthydrationjs": "0.4.0",
     "debug": "^4.1.0",
     "deprecate": "^1.0.0",
     "generatorics": "^1.0.8",
     "graphql-relay": "^0.5.0",
-    "lodash": "^4.13.1"
+    "lodash": "^4.17.15",
+    "nesthydrationjs": "git+https://github.com/willissa2121/NestHydrationJS.git"
   }
 }
