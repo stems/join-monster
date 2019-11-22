@@ -102,11 +102,12 @@
     "sqlite3": "^4.0.0"
   },
   "dependencies": {
+    "@stem/nesthydrationjs": "git+https://github.com/willissa2121/NestHydrationJS.git",
     "debug": "^4.1.0",
     "deprecate": "^1.0.0",
+    "dotenv": "^8.2.0",
     "generatorics": "^1.0.8",
     "graphql-relay": "^0.5.0",
-    "lodash": "^4.17.15",
-    "@stem/nesthydrationjs": "git+https://github.com/willissa2121/NestHydrationJS.git"
+    "lodash": "^4.17.15"
   }
 }
