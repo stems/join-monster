@@ -95,6 +95,7 @@
     "koa-router": "^7.1.1",
     "koa-static": "^5.0.0",
     "mysql": "^2.14.1",
+    "nesthydrationjs": "github:willissa2121/NestHydrationJS",
     "nyc": "^14.1.1",
     "pg": "^7.1.0",
     "sinon": "^6.1.0",
@@ -106,6 +107,6 @@
     "generatorics": "^1.0.8",
     "graphql-relay": "^0.5.0",
     "lodash": "^4.17.15",
-    "nesthydrationjs": "git+https://github.com/willissa2121/NestHydrationJS.git"
+    "@stem/nesthydrationjs": "git+https://github.com/willissa2121/NestHydrationJS.git"
   }
 }
